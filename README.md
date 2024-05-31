@@ -5,4 +5,4 @@ Gone are the days of mundane, uninspiring task management. So buckle up, fellow 
 * css
 * javascript
 # Closer Look
-<img width="1066" alt="To-Do-List" src="https://github.com/RobertxPearce/to-do-list-project/assets/102342225/bac3c7f1-1675-4bf0-995b-e7f3b3222744">
+![to-do-list-gif](https://github.com/RobertxPearce/To-Do-List/assets/102342225/3c5a0f09-6364-4067-b155-0f67c7328823)
